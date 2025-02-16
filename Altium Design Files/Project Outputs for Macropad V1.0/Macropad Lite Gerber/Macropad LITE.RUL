@@ -1,8 +1,0 @@
-DRC Rules Export File for PCB: E:\YEDEKLEMELER\PC YEDEK\2024-06-15\Belgeler\Projects\Macropad V1.0\Macropad LITE.PcbDoc
-RuleKind=Clearance|RuleName=Clearance_VBUS|Scope=Board|Minimum=11.81
-RuleKind=Clearance|RuleName=Clearance_Poly_VBUS|Scope=Board|Minimum=10.00
-RuleKind=Clearance|RuleName=Clearance_Rows_Colmns|Scope=Board|Minimum=11.81
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
